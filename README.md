@@ -1,4 +1,4 @@
-# Contact Merge Workflow Documentation
+# Contact Merge Workflow
 
 ## Overview
 This document provides an overview of the contact merge workflow implemented using the HubSpot API. The workflow aims to identify and merge duplicate contacts based on specified criteria.
